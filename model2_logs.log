@@ -1,0 +1,247 @@
+2021-09-06 11:39:32,858 - INFO - __init__ - Loading model from cluster_kmeans_shape11.pkl
+2021-09-06 11:39:32,858 - ERROR - __init__ - Error occured while loading model
+2021-09-06 11:39:32,859 - ERROR - __init__ - [Errno 2] No such file or directory: 'cluster_kmeans_shape11.pkl'
+2021-09-06 11:39:36,267 - INFO - __init__ - Loading model from cluster_kmeans_shape11.pkl
+2021-09-06 11:39:36,267 - ERROR - __init__ - Error occured while loading model
+2021-09-06 11:39:36,267 - ERROR - __init__ - [Errno 2] No such file or directory: 'cluster_kmeans_shape11.pkl'
+2021-09-06 11:42:52,474 - INFO - __init__ - Loading model from cluster_kmeans_shape11.pkl
+2021-09-06 11:42:52,474 - ERROR - __init__ - Error occured while loading model
+2021-09-06 11:42:52,475 - ERROR - __init__ - [Errno 2] No such file or directory: 'cluster_kmeans_shape11.pkl'
+2021-09-06 11:43:07,280 - INFO - __init__ - Loading model from cluster_kmeans_shape11.pkl
+2021-09-06 11:43:07,280 - ERROR - __init__ - Error occured while loading model
+2021-09-06 11:43:07,281 - ERROR - __init__ - [Errno 2] No such file or directory: 'cluster_kmeans_shape11.pkl'
+2021-09-06 11:53:30,422 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 11:53:30,422 - ERROR - cluster_predict - Error occured while predicting cluster
+2021-09-06 11:53:30,422 - ERROR - cluster_predict - 'Predict' object has no attribute 'cluster_model'
+2021-09-06 11:55:01,865 - INFO - __init__ - Loading model from .pkl
+2021-09-06 11:55:01,866 - ERROR - __init__ - Error occured while loading model
+2021-09-06 11:55:01,866 - ERROR - __init__ - [Errno 2] No such file or directory: '.pkl'
+2021-09-06 11:55:08,383 - INFO - __init__ - Loading model from cluster.pkl
+2021-09-06 11:55:08,383 - ERROR - __init__ - Error occured while loading model
+2021-09-06 11:55:08,383 - ERROR - __init__ - [Errno 2] No such file or directory: 'cluster.pkl'
+2021-09-06 11:55:14,184 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 11:55:27,534 - INFO - __init__ - Cluster Model loaded
+2021-09-06 11:55:31,551 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 11:55:31,552 - ERROR - cluster_predict - Error occured while predicting cluster
+2021-09-06 11:55:31,552 - ERROR - cluster_predict - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2021-09-06 11:55:34,300 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 11:55:34,300 - ERROR - cluster_predict - Error occured while predicting cluster
+2021-09-06 11:55:34,301 - ERROR - cluster_predict - Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2021-09-06 11:58:57,590 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 11:58:58,302 - INFO - __init__ - Cluster Model loaded
+2021-09-06 11:59:07,255 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 11:59:08,497 - INFO - __init__ - Cluster Model loaded
+2021-09-06 11:59:22,208 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 11:59:22,223 - INFO - cluster_predict - Predicted cluster [1]
+2021-09-06 13:02:29,264 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:02:32,269 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:02:35,314 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:02:35,582 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:03:53,324 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:03:53,620 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:04:30,600 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:04:30,842 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:11:15,643 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:11:15,920 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:11:18,873 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:11:19,201 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:23:20,758 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:23:20,993 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:23:42,614 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:23:42,851 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:23:48,450 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:23:48,714 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:23:54,457 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:23:54,750 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:23:59,817 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:24:00,092 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:24:14,862 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:24:15,136 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:24:22,654 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:24:22,924 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:24:27,313 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:24:27,601 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:24:33,625 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:24:33,930 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:24:39,373 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:24:39,654 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:24:44,213 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:24:44,504 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:24:59,965 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:25:00,248 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:25:04,785 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:25:05,066 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:25:11,213 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:25:11,500 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:25:17,439 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:25:17,735 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:25:23,246 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:25:23,533 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:25:28,494 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:25:28,772 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:25:34,055 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:25:34,337 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:25:40,315 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:25:40,613 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:25:46,464 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:25:46,751 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:25:51,147 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:25:51,414 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:25:56,619 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:25:56,908 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:26:04,669 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:26:04,964 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:26:09,196 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:26:09,478 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:26:27,300 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:26:27,584 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:26:36,781 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:26:37,050 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:27:00,364 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:27:00,749 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:27:10,984 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:27:11,266 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:27:55,350 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:27:55,623 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:27:58,530 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:27:58,801 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:28:29,942 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 13:28:30,080 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 13:28:34,396 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:28:34,685 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:28:46,039 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 13:28:46,040 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 13:28:51,148 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 13:28:51,149 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 13:28:57,253 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 13:28:57,254 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 13:28:58,760 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 13:28:58,760 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 13:29:39,025 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 13:29:39,026 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 13:29:51,234 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 13:29:51,235 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 13:30:30,479 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:30:30,793 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:30:36,380 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:30:36,659 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:32:36,680 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:32:37,008 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:32:39,946 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:32:40,219 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:32:44,483 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 13:32:44,484 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 13:32:46,900 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 13:32:46,901 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 13:33:15,876 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 13:33:15,878 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 13:33:54,203 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:33:54,485 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:34:00,054 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:34:00,334 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:34:09,344 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:34:09,628 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:34:55,383 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:34:55,701 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:34:58,803 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 13:34:59,078 - INFO - __init__ - Cluster Model loaded
+2021-09-06 13:34:59,930 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 13:34:59,931 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 19:00:02,851 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:00:06,292 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:00:09,540 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:00:09,809 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:00:29,762 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:00:30,131 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:01:00,129 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 19:01:00,280 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 19:01:17,830 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:01:18,126 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:01:45,781 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 19:01:45,783 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 19:01:58,674 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 19:01:58,676 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 19:02:00,858 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 19:02:00,859 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 19:08:11,427 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:08:11,640 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:22:49,778 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:22:50,140 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:24:43,653 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:24:43,921 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:24:46,942 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:24:47,213 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:25:20,218 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:25:20,492 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:26:03,773 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:26:04,043 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:26:06,833 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:26:07,100 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:29:32,337 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:29:32,606 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:29:35,364 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:29:35,638 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:29:42,990 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:29:43,300 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:30:23,444 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:30:23,649 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:31:24,809 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:31:25,026 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:32:23,879 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:32:24,153 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:32:26,979 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:32:27,268 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:33:04,677 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:33:04,967 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:33:19,168 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 19:33:19,437 - INFO - __init__ - Cluster Model loaded
+2021-09-06 19:34:17,066 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 19:34:17,067 - INFO - cluster_predict - Predicted cluster [1]
+2021-09-06 19:35:59,211 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 19:35:59,212 - INFO - cluster_predict - Predicted cluster [1]
+2021-09-06 19:36:24,452 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 19:36:24,453 - INFO - cluster_predict - Predicted cluster [1]
+2021-09-06 19:36:32,835 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 19:36:32,836 - INFO - cluster_predict - Predicted cluster [1]
+2021-09-06 21:24:34,265 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 21:24:36,392 - INFO - __init__ - Cluster Model loaded
+2021-09-06 21:24:38,970 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 21:24:39,202 - INFO - __init__ - Cluster Model loaded
+2021-09-06 21:24:59,346 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 21:24:59,586 - INFO - __init__ - Cluster Model loaded
+2021-09-06 21:27:42,505 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 21:27:42,647 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 21:27:46,307 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 21:27:46,549 - INFO - __init__ - Cluster Model loaded
+2021-09-06 21:51:09,655 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 21:51:11,634 - INFO - __init__ - Cluster Model loaded
+2021-09-06 21:51:15,843 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 21:51:16,240 - INFO - __init__ - Cluster Model loaded
+2021-09-06 22:08:28,464 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 22:08:28,855 - INFO - __init__ - Cluster Model loaded
+2021-09-06 22:08:32,694 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 22:08:33,075 - INFO - __init__ - Cluster Model loaded
+2021-09-06 22:09:31,630 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 22:09:32,008 - INFO - __init__ - Cluster Model loaded
+2021-09-06 22:09:35,714 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-06 22:09:36,080 - INFO - __init__ - Cluster Model loaded
+2021-09-06 22:10:42,167 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 22:10:42,314 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 22:11:01,244 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 22:11:01,246 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-06 22:11:09,870 - INFO - cluster_predict - Predicting cluster for data
+2021-09-06 22:11:09,871 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-20 12:44:02,468 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-20 12:44:04,560 - INFO - __init__ - Cluster Model loaded
+2021-09-20 12:44:08,981 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-20 12:44:09,235 - INFO - __init__ - Cluster Model loaded
+2021-09-20 12:44:31,052 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-20 12:44:31,312 - INFO - __init__ - Cluster Model loaded
+2021-09-20 12:44:42,017 - INFO - cluster_predict - Predicting cluster for data
+2021-09-20 12:44:42,295 - INFO - cluster_predict - Predicted cluster [0]
+2021-09-20 12:44:48,003 - INFO - __init__ - Loading model from cluster_model.pkl
+2021-09-20 12:44:48,479 - INFO - __init__ - Cluster Model loaded

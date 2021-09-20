@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Prediction Page</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+
+      <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+
+</head>
+
+<body>
+
+  <div class="table-users">
+   <!-- <div class="header">Prediction</div> -->
+   <div> <h3 align='center'>Prediction</h3></div>
+   <p style="text-align: center;">
+     The KMeans Clustering has been used for Prediction</p>
+      
+  <p align="center" style="color: brown;">
+    
+     <b>{{prediction}}</b>
+  </p>
+  <p align="center" style="color: brown;">
+     <b>{{text}}</b>
+  </p>
+  </p>
+</div>
+<h6 style="text-align: center;">subhanath91@gmail.com</h6>
+
+
+</body>
+
+</html>

@@ -1,0 +1,179 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Customer Segmentation Prediction</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+
+
+{% block body %}
+<div class="content">
+    <h2 style="text-align: center">Customer Segmentation Prediction</h2>
+
+    <!-- <fieldset> style -->
+    <style>
+        div {
+          margin-bottom: 10px;
+        }
+        label {
+          display: inline-block;
+          width: 120px;
+        }
+        fieldset {
+          background: #e5f1e5;
+        }
+        legend {
+          padding: 20px 0;
+          font-size: 20px;
+        }
+      </style>
+
+          <style>
+            div {
+              margin-bottom: 10px;
+            }
+            label {
+              display: inline-block;
+              width: 67%;
+              text-align: left;
+            }
+          </style>
+    <div class="form">
+        <form action="/predict" method="POST">
+            <fieldset>
+                <legend>Customer Information:</legend>
+
+            <!--Start taking input from user-->
+            <div class='label'>
+            <label for='BALANCE'>BALANCE</label>
+            <input type="number" name="BALANCE" id="BALANCE" placeholder="0 to 20k">
+            <br>
+            </div>
+
+            <div class='label'>
+            <label for='BALANCE_FREQUENCY'>BALANCE_FREQUENCY</label>
+            <input type="number", name="BALANCE_FREQUENCY", id="BALANCE_FREQUENCY", placeholder="0 or 1">
+            <br>
+            </div>
+
+            <div class='label'>
+              <label for="PURCHASES">PURCHASES</label>
+              <input type="number", name="PURCHASES", id="PURCHASES", placeholder="0 to 50k">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="ONEOFF_PURCHASES">ONEOFF_PURCHASES </label>
+              <input type="number", name="ONEOFF_PURCHASES", id="ONEOFF_PURCHASES", placeholder="0 to 40k">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="INSTALLMENTS_PURCHASES ">INSTALLMENTS_PURCHASES </label>
+              <input type="number", name="INSTALLMENTS_PURCHASES", id="INSTALLMENTS_PURCHASES", placeholder="0 to 25k">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="CASH_ADVANCE ">CASH_ADVANCE </label>
+              <input type="number", name="CASH_ADVANCE", id="CASH_ADVANCE", placeholder="0 to 20k">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="PURCHASES_FREQUENCY">PURCHASES_FREQUENCY</label>
+              <input type="number", name="PURCHASES_FREQUENCY", id="PURCHASES_FREQUENCY", placeholder="0 or 1">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="ONEOFF_PURCHASES_FREQUENCY">ONEOFF_PURCHASES_FREQUENCY</label>
+              <input type="number", name="ONEOFF_PURCHASES_FREQUENCY", id="ONEOFF_PURCHASES_FREQUENCY", placeholder="0 or 1">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="PURCHASES_INSTALLMENTS_FREQUENCY ">PURCHASES_INSTALLMENTS_FREQUENCY </label>
+              <input type="number", name="PURCHASES_INSTALLMENTS_FREQUENCY", id="PURCHASES_INSTALLMENTS_FREQUENCY", placeholder="0 or 1">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="CASH_ADVANCE_FREQUENCY ">CASH_ADVANCE_FREQUENCY </label>
+              <input type="number", name="CASH_ADVANCE_FREQUENCY", id="CASH_ADVANCE_FREQUENCY", placeholder="0 or 1">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="CASH_ADVANCE_TRX">CASH_ADVANCE_TRX</label>
+              <input type="number", name="CASH_ADVANCE_TRX", id="CASH_ADVANCE_TRX", placeholder="0 to 123">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="PURCHASES_TRX">PURCHASES_TRX </label>
+              <input type="number", name="PURCHASES_TRX", id="PURCHASES_TRX", placeholder="0 to 358">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="CREDIT_LIMIT">CREDIT_LIMIT</label>
+              <input type="number", name="CREDIT_LIMIT", id="CREDIT_LIMIT", placeholder="0 to 30k">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="PAYMENTS">PAYMENTS</label>
+              <input type="number", name="PAYMENTS", id="PAYMENTS", placeholder="0 to 400k">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="MINIMUM_PAYMENTS ">MINIMUM_PAYMENTS </label>
+              <input type="number", name="MINIMUM_PAYMENTS", id="MINIMUM_PAYMENTS", placeholder="0 to 76k">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="PRC_FULL_PAYMENT ">PRC_FULL_PAYMENT </label>
+              <input type="number", name="PRC_FULL_PAYMENT", id="PRC_FULL_PAYMENT", placeholder="0 or 1">
+              <br>
+            </div>
+
+            <div class='label'>
+              <label for="TENURE">TENURE</label>
+              <input type="number", name="TENURE", id="TENURE", placeholder="6 to 12">
+              <br>
+            </div>
+
+        
+        
+            </fieldset>
+          
+          <div>
+            <!--Juat getting extra space-->
+          </div>
+            <div style="text-align: center;">
+            <input type="submit" value="Predict" id='search' class="search" style="height: 30px; width: 100px; left: 250; top: 250;">
+            </div>
+         
+ 
+    
+
+
+
+        </form>
+
+    </div>
+    
+<!-- </div>
+<div class='info'>
+  <h3 style="text-align: left;">About:-</h3>
+  <p style="text-align: left;">
+  This project is done by <b>Census Income Dataset</b> collect from <b>UCI Repository</b>, and the task is whether a person's income will be <b>above 50k</b> dollars or <b>less than</b>. 
+  <br>Fill in some information and then click the <b>Predict</b> button to get the prediction.</p>
+</div>
+<h6 style="text-align: center;">subhanath91@gmail.com</h6> -->
+{% endblock %}
