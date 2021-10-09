@@ -11,6 +11,12 @@
 
 ## Website link - [cpc1.herokuapp.com](cpc1.herokuapp.com)
 
+## Libraries used
+#### Flask
+#### Sklearn
+#### Pandas
+#### Numpy
+
 ## Tech Stack
 #### Front-End: HTML, CSS, Bootstrap
 #### Back-End: Flask
