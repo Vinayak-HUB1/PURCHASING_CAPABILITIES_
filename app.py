@@ -4,19 +4,19 @@ import pandas as pd
 import numpy as np
 from flask import Flask,render_template
 
-from modules.prediction import Predict
-from modules.scaler import Scaler
-from modules.setup_logger import setup_logger
+from Cluster_Prediction.prediction import Predict
+from Data_Preprocessing.scaler import Scaler
+from Logging.setup_logger import setup_logger
 import warnings
 warnings.filterwarnings('ignore')
 
 # setting up logs
-log = setup_logger("flask_app_log", "app2_log.log")
+log = setup_logger("flask_app_log", "Logs/app_Logs.log")
 
 
 # creating scaler class instance
-scaler = Scaler("Scaler.pkl")
-pred = Predict("cluster_model.pkl")
+scaler = Scaler("Saved_models\Scaler.pkl")
+pred = Predict("Saved_models\cluster_model.pkl")
 
 
 

@@ -1,0 +1,8 @@
+2021-10-09 12:17:57,198 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2021-10-09 12:17:57,522 - INFO - __init__ - Cluster Model loaded
+2021-10-09 12:18:04,664 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2021-10-09 12:18:04,905 - INFO - __init__ - Cluster Model loaded
+2021-10-09 12:18:28,503 - INFO - cluster_predict - Predicting cluster for data
+2021-10-09 12:18:28,504 - INFO - cluster_predict - Predicted cluster [0]
+2021-10-09 12:19:36,412 - INFO - cluster_predict - Predicting cluster for data
+2021-10-09 12:19:36,413 - INFO - cluster_predict - Predicted cluster [0]

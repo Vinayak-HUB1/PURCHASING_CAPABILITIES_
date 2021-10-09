@@ -1,0 +1,16 @@
+2021-10-09 12:17:51,081 - INFO - __init__ - Initilization Scaling Class
+2021-10-09 12:17:51,082 - INFO - __init__ - Loading scaler model
+2021-10-09 12:17:51,083 - INFO - __init__ - Scaler Model loaded Successfully
+2021-10-09 12:17:51,084 - INFO - __init__ - Loading scaler model
+2021-10-09 12:17:57,197 - INFO - __init__ - Scaler model loaded Successfully
+2021-10-09 12:18:00,167 - INFO - __init__ - Initilization Scaling Class
+2021-10-09 12:18:00,168 - INFO - __init__ - Loading scaler model
+2021-10-09 12:18:00,168 - INFO - __init__ - Scaler Model loaded Successfully
+2021-10-09 12:18:00,168 - INFO - __init__ - Loading scaler model
+2021-10-09 12:18:04,663 - INFO - __init__ - Scaler model loaded Successfully
+2021-10-09 12:18:28,502 - INFO - scale_data - Data is valid
+2021-10-09 12:18:28,502 - INFO - scale_data - Scaling the numpy array
+2021-10-09 12:18:28,502 - INFO - scale_data - Scaling the numpy array Successfully
+2021-10-09 12:19:36,412 - INFO - scale_data - Data is valid
+2021-10-09 12:19:36,412 - INFO - scale_data - Scaling the numpy array
+2021-10-09 12:19:36,412 - INFO - scale_data - Scaling the numpy array Successfully
