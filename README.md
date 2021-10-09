@@ -36,3 +36,7 @@
 #### 2.[LLD](https://github.com/Vinayak-HUB1/PURCHASING_CAPABILITIES_/blob/main/Documents/Low_Level_Design_.pdf)
 #### 3.[Wireframe](https://github.com/Vinayak-HUB1/PURCHASING_CAPABILITIES_/blob/main/Documents/wireframe.pdf)
 #### 4.[DPR](https://github.com/Vinayak-HUB1/PURCHASING_CAPABILITIES_/blob/main/Documents/DPR.pptx)
+
+
+#### [Linkedin Post](https://www.linkedin.com/posts/vinayak-dumbre-73050a1bb_github-vinayak-hub1purchasingcapabilities-activity-6848139193890287616-odW0)
+#### [Demo Video](https://drive.google.com/file/d/1H2iQe0Zz557empZVUMEYFaqDj6ID8Djr/view?usp=sharing)
