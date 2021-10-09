@@ -12,8 +12,8 @@
 ## Website link - [cpc1.herokuapp.com](cpc1.herokuapp.com)
 
 ## Tech Stack
- Front-End: HTML, CSS, Bootstrap
- Back-End: Flask
- IDE: Jupyter notebook, Pycharm
+### Front-End: HTML, CSS, Bootstrap
+### Back-End: Flask
+### IDE: Jupyter notebook, Pycharm
 
 
