@@ -14,7 +14,7 @@
 ## Tech Stack
 #### Front-End: HTML, CSS, Bootstrap
 #### Back-End: Flask
-#### IDE: Jupyter notebook, Pycharm
+#### IDE: Jupyter notebook, VScode
 
 ## How to Run:
 #### 1. create new enviroment with python=3.7
