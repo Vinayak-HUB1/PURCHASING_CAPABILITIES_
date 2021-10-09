@@ -7,7 +7,7 @@
 ![alt tag](https://github.com/Vinayak-HUB1/PURCHASING_CAPABILITIES_/blob/main/Screenshots/input.jpg)
 
 ## output
-![alt tag] 
+![alt tag](https://github.com/Vinayak-HUB1/PURCHASING_CAPABILITIES_/blob/main/Screenshots/output.jpg)
 
 ## Website link - [cpc1.herokuapp.com](cpc1.herokuapp.com)
 
