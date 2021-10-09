@@ -23,3 +23,7 @@
 
 ## Workflow
 ![alt tag](https://github.com/Vinayak-HUB1/PURCHASING_CAPABILITIES_/blob/main/Screenshots/Architecture.jpg)
+
+## Documents
+### 📙 
+#### 1.[HLD](https://github.com/Vinayak-HUB1/PURCHASING_CAPABILITIES_/blob/main/Documents/High%20Level%20Design.pdf)
