@@ -20,3 +20,6 @@
 #### 1. create new enviroment with python=3.7
 #### 2. install requirements.txt file.
 #### 3. Run app.py file.
+
+## Workflow
+![alt tag](https://github.com/Vinayak-HUB1/PURCHASING_CAPABILITIES_/blob/main/Screenshots/Architecture.jpg)
