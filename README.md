@@ -29,4 +29,4 @@
 #### 1.[HLD](https://github.com/Vinayak-HUB1/PURCHASING_CAPABILITIES_/blob/main/Documents/High%20Level%20Design.pdf)
 #### 2.[LLD](https://github.com/Vinayak-HUB1/PURCHASING_CAPABILITIES_/blob/main/Documents/Low_Level_Design_.pdf)
 #### 3.[Wireframe](https://github.com/Vinayak-HUB1/PURCHASING_CAPABILITIES_/blob/main/Documents/wireframe.pdf)
-#### 4.[PPT]()
+#### 4.[DPR](https://github.com/Vinayak-HUB1/PURCHASING_CAPABILITIES_/blob/main/Documents/DPR.pptx)
