@@ -16,4 +16,7 @@
 ### Back-End: Flask
 ### IDE: Jupyter notebook, Pycharm
 
-
+## How to Run:
+#### 1. create new enviroment with python=3.7
+#### 2. install requirements.txt file.
+#### 3. Run app.py file.
