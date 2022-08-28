@@ -14,3 +14,31 @@
 2021-10-09 12:19:36,412 - INFO - scale_data - Data is valid
 2021-10-09 12:19:36,412 - INFO - scale_data - Scaling the numpy array
 2021-10-09 12:19:36,412 - INFO - scale_data - Scaling the numpy array Successfully
+2022-08-28 10:31:31,274 - INFO - __init__ - Initilization Scaling Class
+2022-08-28 10:31:31,275 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:31,275 - INFO - __init__ - Scaler Model loaded Successfully
+2022-08-28 10:31:31,275 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:32,787 - INFO - __init__ - Scaler model loaded Successfully
+2022-08-28 10:31:43,314 - INFO - __init__ - Initilization Scaling Class
+2022-08-28 10:31:43,315 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:43,315 - INFO - __init__ - Scaler Model loaded Successfully
+2022-08-28 10:31:43,315 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:44,294 - INFO - __init__ - Scaler model loaded Successfully
+2022-08-28 10:31:45,393 - INFO - __init__ - Initilization Scaling Class
+2022-08-28 10:31:45,393 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:45,393 - INFO - __init__ - Scaler Model loaded Successfully
+2022-08-28 10:31:45,393 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:46,366 - INFO - __init__ - Scaler model loaded Successfully
+2022-08-28 10:31:51,670 - INFO - __init__ - Initilization Scaling Class
+2022-08-28 10:31:51,671 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:51,671 - INFO - __init__ - Scaler Model loaded Successfully
+2022-08-28 10:31:51,671 - INFO - __init__ - Loading scaler model
+2022-08-28 10:31:52,777 - INFO - __init__ - Scaler model loaded Successfully
+2022-08-28 10:32:24,558 - INFO - scale_data - Data is valid
+2022-08-28 10:32:24,558 - INFO - scale_data - Scaling the numpy array
+2022-08-28 10:32:24,559 - INFO - scale_data - Scaling the numpy array Successfully
+2022-08-28 10:32:26,671 - INFO - __init__ - Initilization Scaling Class
+2022-08-28 10:32:26,671 - INFO - __init__ - Loading scaler model
+2022-08-28 10:32:26,671 - INFO - __init__ - Scaler Model loaded Successfully
+2022-08-28 10:32:26,672 - INFO - __init__ - Loading scaler model
+2022-08-28 10:32:27,672 - INFO - __init__ - Scaler model loaded Successfully

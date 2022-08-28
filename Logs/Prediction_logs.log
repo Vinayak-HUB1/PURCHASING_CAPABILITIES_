@@ -6,3 +6,15 @@
 2021-10-09 12:18:28,504 - INFO - cluster_predict - Predicted cluster [0]
 2021-10-09 12:19:36,412 - INFO - cluster_predict - Predicting cluster for data
 2021-10-09 12:19:36,413 - INFO - cluster_predict - Predicted cluster [0]
+2022-08-28 10:31:32,788 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-08-28 10:31:33,248 - INFO - __init__ - Cluster Model loaded
+2022-08-28 10:31:44,294 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-08-28 10:31:44,416 - INFO - __init__ - Cluster Model loaded
+2022-08-28 10:31:46,367 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-08-28 10:31:46,522 - INFO - __init__ - Cluster Model loaded
+2022-08-28 10:31:52,777 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-08-28 10:31:52,920 - INFO - __init__ - Cluster Model loaded
+2022-08-28 10:32:24,559 - INFO - cluster_predict - Predicting cluster for data
+2022-08-28 10:32:24,566 - INFO - cluster_predict - Predicted cluster [0]
+2022-08-28 10:32:27,672 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-08-28 10:32:27,787 - INFO - __init__ - Cluster Model loaded

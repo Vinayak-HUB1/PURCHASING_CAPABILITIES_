@@ -48,3 +48,28 @@
 2021-10-09 12:19:36,412 - INFO - predict - PredictingCluster number
 2021-10-09 12:19:36,414 - INFO - predict - Complete predicting clusert: 0
 2021-10-09 12:19:36,416 - INFO - predict - Sending the prediction on results.html
+2022-08-28 10:32:24,553 - INFO - predict - Start taking input from webpage
+2022-08-28 10:32:24,554 - INFO - predict - Received POST request
+2022-08-28 10:32:24,556 - INFO - predict - BALANCE: 34
+2022-08-28 10:32:24,557 - INFO - predict - BALANCE_FREQUENCY: 1
+2022-08-28 10:32:24,557 - INFO - predict - PURCHASES: 45
+2022-08-28 10:32:24,557 - INFO - predict - ONEOFF_PURCHASES: 3435
+2022-08-28 10:32:24,557 - INFO - predict - INSTALLMENTS_PURCHASES: 3435
+2022-08-28 10:32:24,557 - INFO - predict - CASH_ADVANCE: 343
+2022-08-28 10:32:24,558 - INFO - predict - PURCHASES_FREQUENCY: 1
+2022-08-28 10:32:24,558 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY: 1
+2022-08-28 10:32:24,558 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY: 1
+2022-08-28 10:32:24,558 - INFO - predict - CASH_ADVANCE_FREQUENCY: 1
+2022-08-28 10:32:24,558 - INFO - predict - CASH_ADVANCE_TRX: 243
+2022-08-28 10:32:24,558 - INFO - predict - PURCHASES_TRX: 233
+2022-08-28 10:32:24,558 - INFO - predict - CREDIT_LIMIT: 3242
+2022-08-28 10:32:24,558 - INFO - predict - PAYMENTS: 434
+2022-08-28 10:32:24,558 - INFO - predict - MINIMUM_PAYMENTS: 343
+2022-08-28 10:32:24,558 - INFO - predict - PRC_FULL_PAYMENT: 1
+2022-08-28 10:32:24,558 - INFO - predict - TENURE: 9
+2022-08-28 10:32:24,558 - INFO - predict - Input taken from webpage
+2022-08-28 10:32:24,558 - INFO - predict - Start data scaling
+2022-08-28 10:32:24,559 - INFO - predict - Data scaling complete
+2022-08-28 10:32:24,559 - INFO - predict - PredictingCluster number
+2022-08-28 10:32:24,567 - INFO - predict - Complete predicting clusert: 0
+2022-08-28 10:32:24,578 - INFO - predict - Sending the prediction on results.html
