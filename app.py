@@ -10,6 +10,7 @@ from Logging.setup_logger import setup_logger
 import warnings
 warnings.filterwarnings('ignore')
 
+
 # setting up logs
 log = setup_logger("flask_app_log", "Logs/app_Logs.log")
 
