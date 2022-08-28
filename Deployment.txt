@@ -1,1 +1,1 @@
-cpc1.herokuapp.com
+https://purchasing-capabilities.herokuapp.com/
