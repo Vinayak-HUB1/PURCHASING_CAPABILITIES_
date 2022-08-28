@@ -1,5 +1,5 @@
 # Your workflow name.
-name: heroku deployment.
+name: flask heroku deployment.
 
 # Run workflow on every push to main branch.
 on:
