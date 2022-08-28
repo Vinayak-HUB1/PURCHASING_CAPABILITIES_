@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 from flask import Flask,render_template
 import os
-
 from Cluster_Prediction.prediction import Predict
 from Data_Preprocessing.scaler import Scaler
 from Logging.setup_logger import setup_logger
